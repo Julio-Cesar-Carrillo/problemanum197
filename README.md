@@ -1,4 +1,5 @@
 # problemanum197
+Integrantes: julio césar y Alberto Bermejo 
 Ejercicio del problemanum197
 
 x'': Aauirnedleiua nBo <br>
